@@ -1,8 +1,4 @@
 # Bertoti
-Repositório destinado às atividades desenvolvidas nas disciplinas do Prof Giuliano Bertoti
-
-
-
 <div align="center">
 
 ![fatecsjc_400x192](https://user-images.githubusercontent.com/71477357/161321048-dc637b2e-0314-4e07-b2f9-8cda9f653356.png)
