@@ -5,7 +5,7 @@
 
 </div>
 
-<p align="float">Repositório criado para armazenar todas as atividades realizadas nas disciplinas ministradas na FATEC São José dos Campos pelo professor Giuliano Araujo Bertoti.<p>
+<p align="float">Repositório criado para armazenar todas as atividades realizadas nas disciplinas ministradas na FATEC São José dos Campos pelo Professor Giuliano Araujo Bertoti.<p>
   
   Aluno: Renan Vitor Fernandes Mendonça
 
