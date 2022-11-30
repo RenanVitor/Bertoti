@@ -15,4 +15,4 @@
 ## Disciplina
 
 ### IHC - Interação Humano Computador
-Você pode visualizar todas as atividades referentes a Disciplina de [IHC - Interação Humano Computador](https://github.com/RenanVitor/Bertoti/tree/main/IHC)  aqui.
+Você pode visualizar todas as atividades referentes a Disciplina de [IHC - Interação Humano Computador aqui](https://github.com/RenanVitor/Bertoti/tree/main/IHC).
