@@ -5,4 +5,4 @@
 </div>
 
 
-<p align="float">Pasta criada para armazenar todas as imagens relativas a atividade das Heurísticas em IHC.<p>
+<p align="center">Pasta criada para armazenar todas as imagens relativas a atividade das Heurísticas em IHC.<p>
