@@ -41,6 +41,14 @@ O ideal é que se forneça aos usuários tempo suficiente para ler e usar conte�
     
 ## 3.0 Understandable:
 
-    3.1.1 - Use of Language:
+    3.1.1 - Language of Page:
+    
+O ideal é que se forneça ao usuário maneiras de selecionar a linguagem da página de maneira a tornar a navegação compreensiva e de fácil entendimento.
 
-Website: www.sealandmaersk.com
+<img src="https://github.com/RenanVitor/Bertoti/blob/main/IHC/images/Seleção%20Idiomas%20Sealand.png" alt="opções de seleção de diversos idiomas" width="100%" height="100%">
+
+<p align="center">✅ O usuário tem a possibilidade de selecionar qual o idioma melhor se aplica a fim de tornar a navegação mais agradável e assertiva (Sealand).</p>
+
+<img src="https://github.com/RenanVitor/Bertoti/blob/main/IHC/images/Sem%20seleção%20idioma%20Serebii.png" alt="site não oferece opção de seleção do idioma para tradução" width="100%" height="100%">
+
+<p align="center">❌ O usuário fica impossibilitado de selecionar idioma para adequada tradução, sendo forçado a tentar compreender o idioma original de desenvolvimento (Serebii).</p>
