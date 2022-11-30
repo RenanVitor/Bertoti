@@ -9,4 +9,4 @@
 
 ## Objetivo:
 
-<p align="justify">Atividade proposta e apresentada em aula, no início do semestre, visando a redação de um artigo cujo objetivo consiste na análise de situação cotidiana que envolva a relação direta entre seres humanos e meios tecnológicos Importante destacar a necessidade de evidenciar o tipo de tecnologia envolvida na interação estudada e como ela impacta a mesma, seja o resultado positivo ou não.</p>
+<p align="justify">Atividade proposta e apresentada em aula, no início do semestre, visando a redação de um artigo científico cujo objetivo consiste na análise de situação cotidiana que envolva a relação direta entre seres humanos e meios tecnológicos. Importante destacar a necessidade de evidenciar o tipo de tecnologia envolvida na interação estudada, evidenciando o grau e a qualidade do impacto, além das opiniões geradas na sociedade, sejam estas positivas ou não.</p>
