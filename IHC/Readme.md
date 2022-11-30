@@ -25,8 +25,22 @@ Quando se fala em mídia baseada em tempo ou time-based media é necessário ter
 <p align="center">❌ Mídia sem opção de legendas (YouTube).</p>
 
 ## 2.0 Operable:
+
+    2.2.0 - Time enough:
+    
+O ideal é que se forneça aos usuários tempo suficiente para ler e usar conteúdo. Então, informações móveis que começam automaticamente devem contar com um mecanismo para que o usuário possa pausar, parar ou escondê-lo. Exemplo desse caso são os termos de privacidade dos sites que, após a entrada em vigor da LGPD, passaram a obrigar a transparência dos sites em relação ao tratamento dos dados do usuário. O ideal é que esses avisos não atrapalhem a navegação do usuário, porém, ainda há algumas páginas que renderizam esse tipo de informação de uma maneira que obriga o usuário a tomar algum tipo de ação para só então poder navegar naquele site.
+
+<img src="https://github.com/RenanVitor/Bertoti/blob/main/IHC/images/Livre%20navegação%20League%20of%20Legends.png" alt="página inicial liberada para livre navegação" width="100%" height="100%">
+
+<p align="center">✅ O usuário não fica impedido de navegar pelas varias opções disponíveis (Riot - League of Legends).</p>
+
+<img src="https://github.com/RenanVitor/Bertoti/blob/main/IHC/images/Navegação%20Impedida%20UOL.png" alt="usuário impedido de navegar enquanto não executar determinada ação na página" width="100%" height="100%">
+
+<p align="center">❌ O usuário fica impedido de navegar, tendo que executar determinada ação (clicar em 'Permitir Anúncios' para poder ter acesso e tempo livre para navegação no site (UOL).</p>
+
     
 ## 3.0 Understandable:
-3.1.1 - Use of Language;
+
+    3.1.1 - Use of Language:
 
 Website: www.sealandmaersk.com
