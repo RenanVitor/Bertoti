@@ -18,7 +18,7 @@ Quando se fala em mídia baseada em tempo ou time-based media é necessário ter
     
 <img src="https://github.com/RenanVitor/Bertoti/blob/main/IHC/images/Legenda%20Youtube.png" alt="vídeo de apresentação do curso com legendas e recursos visuais" width="100%" height="100%">
 
-✅ Exibição de legendas e recursos visuais para enfatizar a mensagem (Vídeo do Youtube).
+<p align="center">✅ Exibição de legendas e recursos visuais para enfatizar a mensagem (Vídeo do Youtube).</p>
 
 ## 2.0 Operable:
     
