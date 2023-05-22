@@ -17,5 +17,5 @@
 Você pode visualizar todas as atividades referentes a Disciplina de [IHC - Interação Humano Computador aqui](https://github.com/RenanVitor/Bertoti/tree/main/IHC).
   
 ### Engenharia de Software III
-Você pode visualizar todas as atividades referentes a Disciplina de [Engenharia de Software III aqui]
-(https://github.com/RenanVitor/Bertoti/tree/main/Engenharia%20de%20Software%203).
+Você pode visualizar todas as atividades referentes a Disciplina de [Engenharia de Software III aqui](https://github.com/RenanVitor/Bertoti/tree/main/Engenharia%20de%20Software%203).
+  
