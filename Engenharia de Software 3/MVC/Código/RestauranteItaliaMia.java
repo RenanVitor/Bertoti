@@ -38,7 +38,7 @@ public class RestauranteItaliaMia {
 	      final Timer timer5 = new Timer();
 	      timer.schedule(new TimerTask() {
 	        public void run() {
-	        	model.setMeals("Sexta-Feira (26/05)", "Paninis com queijo de cabra e tomates grelhados", "Costela de vitela a milanesa com risoto de limao siciliano", "Torta de ricota napolitana");
+	        	model.setMeals("Sexta-Feira (26/05)", "Paninis com queijo de cabra e tomates grelhados", "Costela de vitela a milanesa com risoto de limão siciliano", "Torta de ricota napolitana");
 	        }
 	      }, 40000);
 	}

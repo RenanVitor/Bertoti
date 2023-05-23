@@ -44,8 +44,8 @@ public class View implements ActionListener, Observer {
 		panelEntrada = new JPanel();
 		panelPrincipal = new JPanel();
 		panelSobremesa = new JPanel();
-		assinar = new JButton("Solicitar o cardápio da semana");
-		cancelar = new JButton("Suspender a exibição");
+		assinar = new JButton("Assinar o cardápio da semana");
+		cancelar = new JButton("Cancelar a assinatura");
 		labelDia = new JLabel();
 		labelEntrada = new JLabel();
 		labelPrincipal = new JLabel();

@@ -18,7 +18,7 @@ public class ControllerTrial implements controllerInterface{
 	public void assinar(){
 		
 		model.registerObserver(view);
-		System.out.println("Solicitacao feita com sucesso. Em instantes voce sera atualizado com o cardapio semanal.");
+		System.out.println("Assinatura feita com sucesso. Em instantes voce sera atualizado com o cardapio semanal.");
 		view.desabilitarBotaoAssinar();
 		view.habilitarBotaoCancelar();
 		
@@ -33,7 +33,7 @@ public class ControllerTrial implements controllerInterface{
 	public void cancelar(){
 		
 		model.removeObserver(view);
-		System.out.println("Exibicao Suspensa. Caso queira rever, favor clicar novamente para receber o cardapio.");
+		System.out.println("Assinatura cancelada. Caso queira retornar, favor clicar novamente para assinar o cardapio.");
 		view.desabilitarBotaoCancelar();
 		view.habilitarBotaoAssinar();		
 	}
